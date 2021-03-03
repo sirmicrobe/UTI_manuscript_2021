@@ -201,9 +201,7 @@ ps_urine = prune_samples(sample_sums(ps_urine)>=1000, ps_urine)
 sum(taxa_sums(ps_urine) == 0)
 ps_urine = prune_taxa(taxa_sums(ps_urine) > 0, ps_urine) #[ 864 taxa and 122 samples ]
 
-#create phylogenetic tree
-random_tree_urine = rtree(ntaxa(ps_urine), rooted=TRUE, tip.label=taxa_names(ps_urine))
-plot(random_tree_urine)
+
 #merge into one phyloseq object
 samdf_urine <- merge(data.frame(sample_data(ps_urine)), samdf_urine,by="sample_names")
 row.names(samdf_urine) <- as.character(samdf_urine$sample_names)
