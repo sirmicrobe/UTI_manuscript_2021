@@ -1,6 +1,15 @@
 # UTI_manuscript_2021
-R code for 16S rRNA gene amplicon sequence analysis on 118 kids with suspected UTI
+This repository contains R code for 16S rRNA gene amplicon sequence analysis on 118 kids with suspected UTI
+The published manuscript is here:
 https://journals.asm.org/doi/full/10.1128/spectrum.01861-21
+
+
+
+
+
+
+
+
 
 
 Amplicon sequencing methods from Earth Microbiome Project
