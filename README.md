@@ -1,7 +1,15 @@
-# UTI_manuscript_2021
-This repository contains R code for 16S rRNA gene amplicon sequence analysis on 118 kids with suspected UTI
+# Performance of Conventional Urine Culture Compared to 16S rRNA Gene Amplicon Sequencing in Children with Suspected Urinary Tract Infection
 The published manuscript is here:
 https://journals.asm.org/doi/full/10.1128/spectrum.01861-21
+Abstract:
+Because some organisms causing urinary tract infection (UTI) may be difficult to culture, examination of bacterial gene sequences in the urine may provide a more accurate view of bacteria present during a UTI. Our objective was to estimate how often access to 16S rRNA gene amplicon sequencing alters diagnosis and/or clinical management. The study was designed as a cross-sectional study of a convenience sample of children with suspected UTI. The setting was the emergency department or outpatient clinic at six pediatric centers. Participants included children 2 months to 10 years of age suspected of UTI. We categorized the results of urine culture as follows: “likely UTI” (≥100,000 CFU/ml of a single uropathogen), “possible UTI” (10,000 to 99,000 CFU/ml of a uropathogen or ≥100,000 CFU/ml of a single uropathogen plus other growth), and “unlikely UTI” (no growth or growth of nonuropathogens). Similarly, we categorized the results of 16S rRNA gene sequencing into the same three categories using the following criteria: likely UTI (≥90% relative abundance of a uropathogen), possible UTI (50 to 89% relative abundance of a uropathogen), and unlikely UTI (remainder of samples). The main study outcome was concordance between conventional culture results and 16S rRNA gene sequencing. Concordance between the two methods was high in children with likely and unlikely UTI by conventional culture (95% and 87%, respectively). In children with possible UTI according to conventional culture, 71% had a single uropathogen at a relative abundance of ≥90% according to 16S rRNA gene sequencing data. Concordance between conventional culture and 16S rRNA gene amplicon sequencing appears to be high. In children with equivocal culture results, 16S rRNA gene results may provide information that may help clarify the diagnosis.
+
+
+
+
+
+This repository contains R code for 16S rRNA gene amplicon sequence analysis on 118 kids with suspected UTI
+
 
 
 
